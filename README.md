@@ -1,4 +1,4 @@
-# Predicting the sign of stock returns with daily news
+# Predicting the sign of Dow Jones returns with daily news
 News are important in predicting stock returns. Good news about a company are often followed with positive returns whereas bad news are followed by negative returns. Therefore, correctly incorporating the news information in trading strategies is key for the strategies to be profitable. Numerous papers have been proposed to handle this task:
 * "Trading Strategies to Exploit Blog and News Sentiment" (Zhang, Skiena 2010)
 * "The Predictive Power of Financial Blogs" (Frisbee 2010)
